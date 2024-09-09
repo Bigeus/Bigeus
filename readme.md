@@ -42,9 +42,8 @@
  <p style='font-size: 20px;'>⚡🙋‍♂️ Sobre mim</p>
 
 - 🚩 Made in <span>&#x1f1e7;&#x1f1f7;</span>
-- 📫 Como chegar até mim: viniciusimoesmiranda@gmail.com
 - 🔍 Estudando cybersegurança e me preparando para Security+
-- ➡ Pretendo estudar game dev no futuro!
+- ➡ Gamedev como hobby!
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
